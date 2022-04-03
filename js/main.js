@@ -1160,7 +1160,7 @@ require(['jquery'], function ($) {
 				} else if (phase === 'end' || phase === 'cancel') {
 					$('.logo').removeAttr("disabled style");
 					$('.bookmark').removeAttr("disabled style");
-					if (distance >= 100 && direction === "down") {
+					if (distance >= 200 && direction === "down") {
 						$('.ornament-input-group').css("transform", "").click();
 						$('.logo,.bookmark,.anitInput').css('opacity', '0');
 						$('.input-bg').css('border-color', 'var(--dark)');
