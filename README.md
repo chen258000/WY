@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/license-MIT-green)  ![](https://img.shields.io/badge/version-1.50-red)
-
-## quarkHomePage
+！[] （https://img.shields.io/badge/license-MIT-green）  ！[] (https://img.shields.io/badge/version-1.50-red)
+#感谢liumingye大佬的quarkhomepage
+##quark主页 
 H5仿夸克浏览器主页
 ![](https://ae01.alicdn.com/kf/H244bb0ca385f4109a1c9d11d4a8be564O.jpg)
 # 更新计划
